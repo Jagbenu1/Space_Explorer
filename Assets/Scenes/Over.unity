@@ -569,30 +569,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 469791429338974508, guid: 24891526355d81944be098268011a61c, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1896600161295762062, guid: 24891526355d81944be098268011a61c, type: 3}
-      propertyPath: invokeValue
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1896600161295762062, guid: 24891526355d81944be098268011a61c, type: 3}
-      propertyPath: explosionDeath
-      value: 
-      objectReference: {fileID: 8300000, guid: adb5e414a51279f46868454656cb6674, type: 3}
-    - target: {fileID: 1896600161295762062, guid: 24891526355d81944be098268011a61c, type: 3}
-      propertyPath: landingSuccess
-      value: 
-      objectReference: {fileID: 8300000, guid: 81d0d363ab0700c4a8b71489b9a29aaf, type: 3}
     - target: {fileID: 2923518361366189978, guid: 24891526355d81944be098268011a61c, type: 3}
       propertyPath: m_Name
       value: Rocket
       objectReference: {fileID: 0}
-    - target: {fileID: 3139484442215850176, guid: 24891526355d81944be098268011a61c, type: 3}
-      propertyPath: mainEngine
-      value: 
-      objectReference: {fileID: 8300000, guid: 00d4f7c9af0697246965ea8fa0f21791, type: 3}
     - target: {fileID: 5984076527665886025, guid: 24891526355d81944be098268011a61c, type: 3}
       propertyPath: m_RootOrder
       value: 3
