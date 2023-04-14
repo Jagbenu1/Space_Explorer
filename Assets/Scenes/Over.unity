@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Launch Pad
       objectReference: {fileID: 0}
+    - target: {fileID: 5096955265620722248, guid: 01130a18b24b19448b04f229c5d06ab7, type: 3}
+      propertyPath: m_TagString
+      value: Friendly
+      objectReference: {fileID: 0}
     - target: {fileID: 5786843915565833920, guid: 01130a18b24b19448b04f229c5d06ab7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -565,6 +569,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1896600161295762062, guid: 24891526355d81944be098268011a61c, type: 3}
+      propertyPath: invokeValue
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2923518361366189978, guid: 24891526355d81944be098268011a61c, type: 3}
       propertyPath: m_Name
       value: Rocket
